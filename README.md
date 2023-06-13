@@ -11,3 +11,5 @@ Skills: MERN/Android/Flutter/Data Science/IoT/Figma/ProtoPie/Userberry
 - 🔭 I’m currently working on Dwala App & Kotlin Crash Course 
 - 🌱 I’m currently learning Mixed Reality Development 
 - ⚡ Fun fact: Zimbabwean by Birth South African by Origin
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkosiDhanda99-ha&theme=dark" alt="ng-ha" /></p>

@@ -8,4 +8,4 @@ I am an ambitious & industrious young man from the teapot-shaped nation of <a hr
 - 🌱 I’m currently learning Deep Learning 
 - ⚡ Fun fact: Zimbabwean by Birth <a href="https://en.wikipedia.org/wiki/South_Africa" target="_blank">South African</a> by Origin
 
-https://github.com/nkosiDhanda99/nkosiDhanda99/assets/119724491/016088c3-e2bc-4565-8cbb-e2137087928a
+<video src="https://github.com/nkosiDhanda99/nkosiDhanda99/assets/119724491/016088c3-e2bc-4565-8cbb-e2137087928a"></video>

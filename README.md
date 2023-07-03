@@ -1,5 +1,3 @@
-
-https://github.com/nkosiDhanda99/nkosiDhanda99/assets/119724491/e9bba943-f72d-4532-8e51-bfd3af6a702e
 # Hi there 👋, Hello-Makadini-Sawubona 
 ## I am Nkosinathi Dhanda (The Prince of Code 👷🤖)
 ![I am Nkosinathi Dhanda](https://pbs.twimg.com/profile_banners/1505063558522019842/1676687691/1500x500)

@@ -7,3 +7,5 @@ I am an ambitious & industrious young man from the teapot-shaped nation of <a hr
 - 🔭 I’m currently working on myself & sharpening my skills
 - 🌱 I’m currently learning Deep Learning 
 - ⚡ Fun fact: Zimbabwean by Birth <a href="https://en.wikipedia.org/wiki/South_Africa" target="_blank">South African</a> by Origin
+
+https://github.com/nkosiDhanda99/nkosiDhanda99/assets/119724491/47c74dca-eade-4282-ae4f-180bdf6631f3

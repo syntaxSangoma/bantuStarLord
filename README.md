@@ -8,5 +8,3 @@ I am an ambitious & industrious young man from the teapot-shaped nation of <a hr
 - ⚡ Fun fact: Zimbabwean by Birth <a href="https://en.wikipedia.org/wiki/South_Africa" target="_blank">South African</a> by Origin
 
 ![Year Objectives](https://github.com/AlgoBenderDaily/AlgoBenderDaily/blob/main/2024.png)
-<br> <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlgoBenderDaily&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
